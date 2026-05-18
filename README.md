@@ -31,8 +31,7 @@ CSS3 (Flexbox, Responsive Design)
 JavaScript
 
 Mobile Development
-
-Flutter (Beginner)
+React Native
 
 Tools & Technologies
 
@@ -45,8 +44,8 @@ Tools & Technologies
 📌 Projects
 
 🌐 Tribute Page Website
-🎵 Music Web App (In Progress)
-🧩 Responsive Card Layout Designs
+🎵 Music Web player
+
 
 👉 More projects coming soon as I grow and learn.
 
@@ -69,17 +68,3 @@ Motto
 "Start where you are. Use what you have. Build anyway."
 
  Thanks for visiting my profile!
-<!--
-**Daisy-dev22/Daisy-dev22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
