@@ -43,8 +43,9 @@ Tools & Technologies
 
 📌 Projects
 
-🌐 Tribute Page Website
-🎵 Music Web player
+Tribute Page Website
+TechNova Landing page 
+
 
 
 👉 More projects coming soon as I grow and learn.
